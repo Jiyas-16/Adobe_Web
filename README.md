@@ -98,10 +98,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ![Sample Output](images/Screenshot%202024-08-10%20122819.png)  <!-- Replace with your actual image path -->
 
-### Visualization of Regularized Curves
+### Visualization of Symmetry Detection
 
 ![Regularized Curves](images/Screenshot%202024-08-05%20103200.png)  <!-- Replace with your actual image path -->
 
-### Symmetry Detection
+### Regularized Curves
 
 ![Symmetry Detection](images/Screenshot%202024-08-05%20103002.png)  <!-- Replace with your actual image path -->
